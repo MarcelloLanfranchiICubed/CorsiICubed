@@ -1,0 +1,11 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\bin\Debug\netcoreapp2.1\DelegateExample.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\bin\Debug\netcoreapp2.1\DelegateExample.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\bin\Debug\netcoreapp2.1\DelegateExample.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\bin\Debug\netcoreapp2.1\DelegateExample.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\bin\Debug\netcoreapp2.1\DelegateExample.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.csprojAssemblyReference.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExample\obj\Debug\netcoreapp2.1\DelegateExample.pdb

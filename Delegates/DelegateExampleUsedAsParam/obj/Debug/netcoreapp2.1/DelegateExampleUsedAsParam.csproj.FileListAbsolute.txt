@@ -1,0 +1,11 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.csprojAssemblyReference.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\bin\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\bin\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\bin\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\bin\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\bin\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delegates\DelegateExampleUsedAsParam\obj\Debug\netcoreapp2.1\DelegateExampleUsedAsParam.pdb
