@@ -1,0 +1,11 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\bin\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\bin\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\bin\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\bin\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\bin\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.csprojAssemblyReference.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithGenericDelegate\obj\Debug\netcoreapp2.1\EventExampleWithGenericDelegate.pdb
