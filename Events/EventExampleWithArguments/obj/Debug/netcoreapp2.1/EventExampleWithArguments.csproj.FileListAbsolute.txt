@@ -1,0 +1,10 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\bin\Debug\netcoreapp2.1\EventExampleWithArguments.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\bin\Debug\netcoreapp2.1\EventExampleWithArguments.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\bin\Debug\netcoreapp2.1\EventExampleWithArguments.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\bin\Debug\netcoreapp2.1\EventExampleWithArguments.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\bin\Debug\netcoreapp2.1\EventExampleWithArguments.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\obj\Debug\netcoreapp2.1\EventExampleWithArguments.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\obj\Debug\netcoreapp2.1\EventExampleWithArguments.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\obj\Debug\netcoreapp2.1\EventExampleWithArguments.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\obj\Debug\netcoreapp2.1\EventExampleWithArguments.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExampleWithArguments\obj\Debug\netcoreapp2.1\EventExampleWithArguments.pdb
