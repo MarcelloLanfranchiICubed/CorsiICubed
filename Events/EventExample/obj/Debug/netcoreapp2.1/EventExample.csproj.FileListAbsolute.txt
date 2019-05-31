@@ -1,0 +1,11 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\bin\Debug\netcoreapp2.1\EventExample.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\bin\Debug\netcoreapp2.1\EventExample.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\bin\Debug\netcoreapp2.1\EventExample.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\bin\Debug\netcoreapp2.1\EventExample.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\bin\Debug\netcoreapp2.1\EventExample.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.csprojAssemblyReference.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Events\EventExample\obj\Debug\netcoreapp2.1\EventExample.pdb
