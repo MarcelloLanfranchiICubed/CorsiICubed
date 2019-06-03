@@ -1,0 +1,14 @@
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\bin\Debug\netcoreapp2.1\Delivery.deps.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\bin\Debug\netcoreapp2.1\Delivery.runtimeconfig.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\bin\Debug\netcoreapp2.1\Delivery.runtimeconfig.dev.json
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\bin\Debug\netcoreapp2.1\Delivery.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\bin\Debug\netcoreapp2.1\Delivery.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.RazorAssemblyInfo.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.RazorAssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.AssemblyInfoInputs.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.AssemblyInfo.cs
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.RazorTargetAssemblyInfo.cache
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.dll
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.pdb
+C:\Users\lanfr\Desktop\MyLessons\Code\CorsiICubed\Delivery\Delivery\obj\Debug\netcoreapp2.1\Delivery.csprojAssemblyReference.cache
