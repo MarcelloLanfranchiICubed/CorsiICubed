@@ -16,7 +16,7 @@ namespace Delivery.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<T>> Get()
+        public ActionResult<IList<T>> Get()
         {
             return repository.GetAll().ToList();
         }
